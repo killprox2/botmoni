@@ -1,0 +1,12 @@
+{
+    "prefix": "*",
+    "minutes_per_check": 5,
+    "seconds_between_check": 5,
+    "guild_item_limit": 10,
+    "cache_limit": 50,
+    "required_perms": ["ADMINISTRATOR"],
+    "tld": "fr",
+    "auto_cart_link": true,
+    "channel_id": "1285955371252580352"
+  }
+  
